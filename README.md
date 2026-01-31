@@ -3,7 +3,9 @@
 ## Overview
 **Business Insights 360** is a comprehensive Power BI dashboard solution designed to provide in-depth analysis across key business areas: Finance, Supply Chain, Marketing, and Executive Management. This dashboard empowers business leaders with actionable insights by visualizing essential KPIs and trends, helping drive informed decision-making.
 
-## Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiN2YwNjMyMDgtMDRjMC00ZDYwLTk0Y2YtYWZmMGM0MDM0MDk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+## 📊 Dashboard
+
+[![View Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiN2YwNjMyMDgtMDRjMC00ZDYwLTk0Y2YtYWZmMGM0MDM0MDk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### Problem Statement
 
@@ -111,7 +113,7 @@ By following these steps, you can create a powerful and interactive Power BI das
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/power-bi-business-insights-360.git
+   git clone https://github.com/nbx0021/Business-Insights-360.git
    ```
 
 2. **Open Power BI Desktop:**
