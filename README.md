@@ -111,38 +111,15 @@ By following these steps, you can create a powerful and interactive Power BI das
 
 ## Getting Started
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/nbx0021/Business-Insights-360.git
-   ```
-
-2. **Open Power BI Desktop:**
+1. **Open Power BI Desktop:**
    - Download and install Power BI Desktop from the official [Microsoft website](https://powerbi.microsoft.com/desktop/).
 
-3. **Load the Dashboard:**
+2. **Load the Dashboard:**
    - Open the `.pbix` file in Power BI Desktop to view and customize the dashboard.
 
-4. **Connect to Your Data Source:**
+3. **Connect to Your Data Source:**
    - Update the data source settings to connect to your specific databases or data files.
-
-## Support
-
-- **Documentation:** Visit the `docs` folder for detailed user guides and setup instructions.
-- **Knowledge Base:** Access tutorials and FAQs in our [online knowledge base](https://support.bi360.com).
-- **Email:** For queries or issues, contact us at support@bi360.com.
-- **Live Chat:** Available on our [website](https://bi360.com) for real-time assistance.
-- **Phone:** Call us at 1-800-123-4567 for immediate support.
-
-## Contributing
-
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for details on submitting pull requests.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to the Power BI community for ongoing support and inspiration.
-
-Feel free to explore, customize, and contribute to **Power BI Business Insights 360**. Your feedback is invaluable in improving and expanding this tool!
